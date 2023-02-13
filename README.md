@@ -4,7 +4,7 @@
 # Information
  A collection of information screens. Made for diplays, or help for builders. 
 
-[![](https://img.shields.io/badge/DU-1.1.2-green?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/2000270/Dual_Universe/)
+[![](https://img.shields.io/badge/DU-1.2.X-green?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/2000270/Dual_Universe/)
 [![](https://img.shields.io/badge/CODE-LUA-purple?style=for-the-badge&logo=lua)](#)
 [![](https://img.shields.io/badge/Maintained-YES-green?style=for-the-badge)](#)
 ![](https://komarev.com/ghpvc/?username=DU-Locura-Information-Screens&style=for-the-badge)
