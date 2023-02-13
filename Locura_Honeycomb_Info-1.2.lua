@@ -91,23 +91,9 @@ end
 
 local y = 50
 
-function renderTitle(title)
+function renderTitle(title, space)
     local h=20
-    addLine(back,0,y+h,rx,y+h)
-    addBox(front,0,y,rx,h)
-    addText(front,small,title,rx-570,y+h/2)    
-    addText(front,small,'VARIATIONS',rx-395,y+h/2)
-    addText(front,small,'HITPOINTS',rx-295,y+h/2)
-    addText(front,small,'CCS',rx-225,y+h/2)
-    addText(front,small,'MASS',rx-165,y+h/2)
-    addText(front,small,'SCHEM',rx-105,y+h/2)
-    addText(front,small,'NANO',rx-30,y+h/2)
-    y=y+h
-end
-
-function renderTitle2(title)
-    local h=20
-    y=y+10
+    y = y + (space or 0)
     addLine(back,0,y+h,rx,y+h)
     addBox(front,0,y,rx,h)
     addText(front,small,title,rx-570,y+h/2)
@@ -143,7 +129,7 @@ renderHeader(title)
 renderFooter(footerNote)
 
 if show_pure then
-renderTitle('PURE')
+renderTitle('PURE','0')
 renderRow("Aluminium","T1","44","3000","2700","50","NO","SOME",green,yellow,red,yellow,green,yellow)
 renderRow("Calcium","T2","29","3000","3240","50","YES","NO",yellow,yellow,red,yellow,red,red)   
 renderRow("Carbon","T1","29","1500","1350","25","NO","SOME",yellow,red,red,green,green,yellow)
@@ -166,7 +152,7 @@ renderRow("Titanium","T5","44","1500","2799","25","YES","NO",green,red,red,green
 renderRow("Vanadium","T5","29","3000","5599","50","YES","NO",yellow,yellow,yellow,yellow,red,red)
 end
 if show_product then
-renderTitle2('PRODUCT')
+renderTitle('PRODUCT','10')
 renderRow("AL-LI","T3","29","2400","4939","40","YES","NO",yellow,yellow,yellow,yellow,red,red)
 renderRow("Brick","T1","51","480","504","8","YES","SOME",green,red,red,green,red,yellow)
 renderRow("Carbon Fiber","T1","15","240","252","4","YES","SOME",red,red,red,green,red,yellow)
