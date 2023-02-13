@@ -24,7 +24,7 @@
 ---
 | Screen  | Current Version |
 | ------------- | ------------- |
-|HoneyComb Info|[![](https://img.shields.io/badge/VERSION-v1.1-green?style=for-the-badge)](#)|
+|HoneyComb Info|[![](https://img.shields.io/badge/VERSION-v1.2-green?style=for-the-badge)](#)|
 |Atmoshperic Engine L Info|[![](https://img.shields.io/badge/VERSION-v1.0-green?style=for-the-badge)](#)|
 
 # Preview
