@@ -35,15 +35,6 @@
 # Screen And Sign Compatibility
 [![](https://img.shields.io/badge/Wiki-Screen%20And%20Sign%20Compatibility-informational?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Storage-Info/wiki/Usage)
 
-- Sign XS
-- Sign S
-- Sign M
-- Sign L
-- Vertical Sign XS
-- Vertiacal Sign M
-- Vertical Sign L
-
-
 # Ways To Help
 - Send an in game tip to "Credence"
 - Contribute new code, or updating whats already here
