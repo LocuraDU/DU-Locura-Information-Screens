@@ -25,13 +25,7 @@
 |Atmoshperic Engine L Info|[![](https://img.shields.io/badge/VERSION-v1.0-green?style=for-the-badge)](#)|
 
 # Preview
-![v2.0](img/DULSI2Banner.png)
-
-| v2.1  | v2.2 |
-| ------------- | ------------- |
-| ![v2.1](img/2.1pre.png)  | ![v2.2](img/v2.2.0.png)  |
-| New options for v2.1| v2.2 brings support for 5 displays and 5 different containers all from one board |
-
+![](images/20230213045930_1.jpg)
 
 # Installation / Documentation / Wiki
 [![](https://img.shields.io/badge/Wiki-Changelog-yellow?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Storage-Info/wiki/Changelog)
@@ -39,27 +33,30 @@
 [![](https://img.shields.io/badge/Wiki-Usage-informational?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Storage-Info/wiki/Usage)
 
 # Screen And Sign Compatibility
-:blue_square: Not Tested :green_square: Working :yellow_square: Partially Works Without Edits :red_square: Not Working Without Edits
-> **Note**
-> Please post in Discussions if you can confirm a screen or sign.
-- :green_square: L Screens
-- :green_square: Modern Screens
-- :red_square: Transparent Screens
-- :red_square: Modern Transparent Screens
-- :red_square: Signs
-- :red_square: Vertical Signs
+[![](https://img.shields.io/badge/Wiki-Screen%20And%20Sign%20Compatibility-informational?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Storage-Info/wiki/Usage)
+
+- Sign XS
+- Sign S
+- Sign M
+- Sign L
+- Vertical Sign XS
+- Vertiacal Sign M
+- Vertical Sign L
+
 
 # Ways To Help
+- Send an in game tip to "Credence"
 - Contribute new code, or updating whats already here
 - Donate for Dr Pepper funds at Venmo @terranbytes
 - Join or start a discussion on the discussions tab
 
-# In Game
+# Contacts
 - Credence (Dual Universe)
+- Credence#1983 (Discord)
 
 # Other
 > **Note**
-> - Some aesthetic ideas from (https://github.com/Jericho1060)
+> - Made possible with some from (https://github.com/Jericho1060)
 
 > **Warning**
 > This may or may not work with some screens or signs. Please check list above for compatibility.
