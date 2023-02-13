@@ -18,6 +18,11 @@
 [![](https://img.shields.io/github/releases/locuradu/DU-Locura-Information-Screens?label=RELEASES&style=flat-square)](#)
 [![](https://img.shields.io/github/repo-size/LocuraDU/DU-Locura-Information-Screens?label=REPO%20SIZE&style=flat-square)](#)
 [![](https://img.shields.io/github/license/LocuraDU/DU-Locura-Information-Screens?label=LICENSE&style=flat-square)](#)
+---
+| Screen  | Current Version |
+| ------------- | ------------- |
+|HoneyComb Info|[![](https://img.shields.io/badge/VERSION-v1.1-green?style=for-the-badge)](#)|
+|Atmoshperic Engine L Info|[![](https://img.shields.io/badge/VERSION-v1.0-green?style=for-the-badge)](#)|
 
 # Preview
 ![v2.0](img/DULSI2Banner.png)
