@@ -50,7 +50,7 @@
 
 # Other
 > **Note**
-> - Made possible with some from (https://github.com/Jericho1060)
+> - Made possible with some help from (https://github.com/Jericho1060)
 
 > **Warning**
 > This may or may not work with some screens or signs. Please check list above for compatibility.
