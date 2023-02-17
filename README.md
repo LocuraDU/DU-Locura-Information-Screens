@@ -51,8 +51,8 @@
 
 # Other
 > **Note**
-> - Made possible with some help from (https://github.com/Jericho1060)
-> - Made possible with some help from (https://github.com/BartasRS)
+> - Made possible with help from (https://github.com/Jericho1060)
+> - Made possible with help from (https://github.com/BartasRS)
 
 > **Warning**
 > This may or may not work with some screens or signs. Please check list above for compatibility.
