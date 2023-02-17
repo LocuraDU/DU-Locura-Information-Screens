@@ -47,10 +47,12 @@
 # Contacts
 - Credence (Dual Universe)
 - Credence#1983 (Discord)
+- CredenceHamby (GitHub)
 
 # Other
 > **Note**
 > - Made possible with some help from (https://github.com/Jericho1060)
+> - Made possible with some help from (https://github.com/BartasRS)
 
 > **Warning**
 > This may or may not work with some screens or signs. Please check list above for compatibility.
