@@ -23,7 +23,6 @@
 [![](https://img.shields.io/github/contributors/locuradu/DU-Locura-Information-Screens?label=CONTRIBUTORS&style=flat-square)](#)
 [![](https://img.shields.io/github/releases/locuradu/DU-Locura-Information-Screens?label=RELEASES&style=flat-square)](#)
 [![](https://img.shields.io/github/repo-size/LocuraDU/DU-Locura-Information-Screens?label=REPO%20SIZE&style=flat-square)](#)
-[![](https://img.shields.io/github/license/LocuraDU/DU-Locura-Information-Screens?label=LICENSE&style=flat-square)](#)
 ---
 | Screen  | Current Version |
 | ------------- | ------------- |
