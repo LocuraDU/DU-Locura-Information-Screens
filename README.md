@@ -1,3 +1,6 @@
+:heavy_exclamation_mark: | Purchase of this code in game is for your own use. Please respect our work and do not share, sell, or give away our work.
+:---: | :---
+
 :heavy_exclamation_mark: | Use Honeycomb Info v1.1. v1.2 is for game v1.3 release which is not out yet.
 :---: | :---
 
