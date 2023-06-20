@@ -28,7 +28,7 @@
 [![](https://img.shields.io/badge/Wiki-Changelog-yellow?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Information-Screens/wiki/Changelog)
 [![](https://img.shields.io/badge/Wiki-Installation-informational?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Information-Screens/wiki/Installation)
 [![](https://img.shields.io/badge/Wiki-Usage-informational?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Information-Screens/wiki/Usage)
-
+---
 | Screen  | Current Version |
 | ------------- | ------------- |
 |HoneyComb Info|[![](https://img.shields.io/badge/VERSION-v1.3-green?style=for-the-badge)](#)|
