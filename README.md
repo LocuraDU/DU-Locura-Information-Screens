@@ -30,6 +30,7 @@
 
 # Preview
 ![](images/20230213045930_1.jpg)
+![](images/enginescreens.png) 
 
 # Installation / Documentation / Wiki
 [![](https://img.shields.io/badge/Wiki-Changelog-yellow?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Information-Screens/wiki/Changelog)
