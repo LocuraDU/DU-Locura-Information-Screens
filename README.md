@@ -47,7 +47,7 @@
 
 # Contacts
 - Credence (Dual Universe)
-- Credence#1983 (Discord)
+- credence.locura (Discord)
 - CredenceHamby (GitHub)
 
 # Other
