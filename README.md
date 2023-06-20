@@ -1,9 +1,6 @@
 :heavy_exclamation_mark: | Purchase of this code in game is for your own use. Please respect our work and do not share, sell, or give away our work. Any code found in game that is being used by non authorized players will be reported to NQ. We have other amazing scripts that you can freely use and modify.
 :---: | :---
 
-:heavy_exclamation_mark: | Use Honeycomb Info v1.1. v1.2 is for game v1.3 release which is not out yet.
-:---: | :---
-
 # Information
  A collection of information screens. Made for diplays, or help for builders. 
 
