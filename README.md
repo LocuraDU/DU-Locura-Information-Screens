@@ -7,7 +7,7 @@
 # Information
  A collection of information screens. Made for diplays, or help for builders. 
 
-[![](https://img.shields.io/badge/DU-1.3.X-green?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/2000270/Dual_Universe/)
+[![](https://img.shields.io/badge/DU-1.4.X-green?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/2000270/Dual_Universe/)
 [![](https://img.shields.io/badge/CODE-LUA-purple?style=for-the-badge&logo=lua)](#)
 [![](https://img.shields.io/badge/Maintained-YES-green?style=for-the-badge)](#)
 ![](https://komarev.com/ghpvc/?username=DU-Locura-Information-Screens&style=for-the-badge)
@@ -26,7 +26,7 @@
 ---
 | Screen  | Current Version |
 | ------------- | ------------- |
-|HoneyComb Info|[![](https://img.shields.io/badge/VERSION-v1.2-green?style=for-the-badge)](#)|
+|HoneyComb Info|[![](https://img.shields.io/badge/VERSION-v1.3-green?style=for-the-badge)](#)|
 |Atmoshperic Engine L Info|[![](https://img.shields.io/badge/VERSION-v1.0-red?style=for-the-badge)](#)|
 |Atmoshperic Engine Info|[![](https://img.shields.io/badge/VERSION-v1.0-green?style=for-the-badge)](#)|
 
