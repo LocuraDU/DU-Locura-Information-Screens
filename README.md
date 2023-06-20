@@ -24,6 +24,11 @@
 [![](https://img.shields.io/github/releases/locuradu/DU-Locura-Information-Screens?label=RELEASES&style=flat-square)](#)
 [![](https://img.shields.io/github/repo-size/LocuraDU/DU-Locura-Information-Screens?label=REPO%20SIZE&style=flat-square)](#)
 ---
+# Installation / Documentation / Wiki
+[![](https://img.shields.io/badge/Wiki-Changelog-yellow?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Information-Screens/wiki/Changelog)
+[![](https://img.shields.io/badge/Wiki-Installation-informational?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Information-Screens/wiki/Installation)
+[![](https://img.shields.io/badge/Wiki-Usage-informational?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Information-Screens/wiki/Usage)
+
 | Screen  | Current Version |
 | ------------- | ------------- |
 |HoneyComb Info|[![](https://img.shields.io/badge/VERSION-v1.3-green?style=for-the-badge)](#)|
@@ -34,11 +39,6 @@
 # Preview
 ![](images/20230213045930_1.jpg)
 ![](images/enginescreens.png) 
-
-# Installation / Documentation / Wiki
-[![](https://img.shields.io/badge/Wiki-Changelog-yellow?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Information-Screens/wiki/Changelog)
-[![](https://img.shields.io/badge/Wiki-Installation-informational?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Information-Screens/wiki/Installation)
-[![](https://img.shields.io/badge/Wiki-Usage-informational?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Information-Screens/wiki/Usage)
 
 # Screen And Sign Compatibility
 [![](https://img.shields.io/badge/Wiki-Screen%20And%20Sign%20Compatibility-informational?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Information-Screens/wiki/Screen-And-Sign-Compatibility)
